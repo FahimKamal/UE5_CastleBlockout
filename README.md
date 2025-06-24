@@ -68,7 +68,7 @@ The entire design philosophy, detailed layout, gameplay intentions, and core mec
 Below is the top-down conceptual map that guided the greybox construction of the "Medieval Village Prototype," illustrating the main zones and their relational layout.
 
 <p align="center">
-  <img src="https://placehold.co/800x600/png?text=Top-Down+Medieval+Village+Map\n(Add+Actual+Map+Image)" alt="Medieval Village Level Map Placeholder" width="75%"/>
+  <img src="https://github.com/user-attachments/assets/19da8451-9c05-4e8c-aabe-44745b8cc6e4" alt="Medieval Village Level Map Placeholder" width="75%"/>
   <br>
   <em>Top-down conceptual map of the Medieval Village. (Actual map image to be added)</em>
 </p>
