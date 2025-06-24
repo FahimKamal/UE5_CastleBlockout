@@ -14,10 +14,15 @@
 ======================================================================
 -->
 
+https://github.com/user-attachments/assets/009e657f-e187-4883-ad80-dffa16e45491
+
 <p align="center">
-  <img src="https://placehold.co/800x450/png?text=Medieval+Village+Prototype\nPlaytesting+Video+(Coming+Soon)" alt="Medieval Village Prototype - Playtesting Video Placeholder" width="80%"/>
   <br>
-  <em>Playtesting Video (max 5 mins) of the completed Medieval Village greybox - Coming Soon!</em>
+  <em>Playtesting Video of the completed Medieval Village greybox</em>
+  <br>
+  <a href="https://www.youtube.com/watch?v=LSEcTx-XwU4" target="_blank">
+    Watch in UHD on YouTube. 
+  </a>
 </p>
 
 <p align="center">
