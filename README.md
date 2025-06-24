@@ -70,7 +70,7 @@ Below is the top-down conceptual map that guided the greybox construction of the
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19da8451-9c05-4e8c-aabe-44745b8cc6e4" alt="Medieval Village Level Map Placeholder" width="75%"/>
   <br>
-  <em>Top-down conceptual map of the Medieval Village. (Actual map image to be added)</em>
+  <em>Top-down conceptual map of the Medieval Village.</em>
 </p>
 
 ---
