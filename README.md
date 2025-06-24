@@ -56,7 +56,7 @@ Development utilized a robust third-person character controller from the **UE An
 The entire design philosophy, detailed layout, gameplay intentions, and core mechanics for the "Medieval Village Prototype" are documented in the Level Design Document. This document served as the blueprint for the greyboxing process.
 
 <p align="center">
-  <a href="/Level Design Document Medieval Village Prototype.md" target="_blank">
+  <a href="/Level Design Document Medieval Village Prototype.pdf" target="_blank">
     <strong>View the Full Level Design Document (PDF)</strong>
   </a>
 </p>
