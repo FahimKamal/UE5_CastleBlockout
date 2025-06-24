@@ -21,12 +21,12 @@ https://github.com/user-attachments/assets/009e657f-e187-4883-ad80-dffa16e45491
   <em>Playtesting Video of the completed Medieval Village greybox</em>
   <br>
   <a href="https://www.youtube.com/watch?v=LSEcTx-XwU4" target="_blank">
-    Watch in UHD on YouTube. 
+    Watch in UHD on YouTube.
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab13ae44-2881-40e7-a9f1-9fe58b06e4bf" alt="Medieval Village Prototype - Hero Image Placeholder" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/ab13ae44-2881-40e7-a9f1-9fe58b06e4bf" alt="Medieval Village Prototype - Hero Image" width="80%"/>
   <br>
   <em>A representative hero image of the completed "Medieval Village Prototype" greybox.</em>
 </p>
@@ -48,6 +48,30 @@ The primary achievement was translating the conceptual design from its Level Des
 **Medieval Village Prototype** is a completed greybox of a single-player level in **Unreal Engine 5.5.1**. It realizes a small, explorable open-world environment featuring a central castle, an adjacent village with various functional buildings (homes, smithy, tavern, market), farming areas, and opportunities for player interaction.
 
 Development utilized a robust third-person character controller from the **UE Animation Sample Project** and **SuperGrid Starter Pack** assets for efficient blockout. The gameplay is envisioned in a **third-person perspective**, allowing players to roam freely. The design supports future integration of (placeholder) NPCs for quests and stealth/thievery mechanics like lockpicking doors/chests and sneaking past guards. This completed greybox establishes the foundational layout, scale, traversal, and basic interactive elements described in the project's LDD, and a project build has been created.
+
+---
+
+## 📜 Level Design Document (LDD)
+
+The entire design philosophy, detailed layout, gameplay intentions, and core mechanics for the "Medieval Village Prototype" are documented in the Level Design Document. This document served as the blueprint for the greyboxing process.
+
+<p align="center">
+  <a href="/Level Design Document Medieval Village Prototype.md" target="_blank">
+    <strong>View the Full Level Design Document (PDF)</strong>
+  </a>
+</p>
+
+---
+
+## 🗺️ Level Map Overview
+
+Below is the top-down conceptual map that guided the greybox construction of the "Medieval Village Prototype," illustrating the main zones and their relational layout.
+
+<p align="center">
+  <img src="https://placehold.co/800x600/png?text=Top-Down+Medieval+Village+Map\n(Add+Actual+Map+Image)" alt="Medieval Village Level Map Placeholder" width="75%"/>
+  <br>
+  <em>Top-down conceptual map of the Medieval Village. (Actual map image to be added)</em>
+</p>
 
 ---
 
@@ -91,25 +115,22 @@ Development utilized a robust third-person character controller from the **UE An
 ## 📸 Development Screenshots (Completed Medieval Village Greybox)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81f9274f-2628-479d-a343-ce262613fd2c" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/641d555b-b65a-4b8b-9b43-56cb0ae1c67e" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/81f9274f-2628-479d-a343-ce262613fd2c" alt="Castle View 1" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/641d555b-b65a-4b8b-9b43-56cb0ae1c67e" alt="Castle View 2" width="45%"/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/c707af6b-5ddd-4836-85f7-2de5af43d5dd" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/c1495133-9ca5-48c8-9b1c-fca25178be64" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c707af6b-5ddd-4836-85f7-2de5af43d5dd" alt="Castle Interior/Courtyard" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c1495133-9ca5-48c8-9b1c-fca25178be64" alt="Castle Ramparts/Wall" width="45%"/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/eca8b836-4352-42cb-a888-c0181267993f" alt="Village Overview with SuperGrid Placeholder" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/b0482568-9d11-4875-aec2-f77e7d1c48bd" alt="Village Overview with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/eca8b836-4352-42cb-a888-c0181267993f" alt="Village Overview 1" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b0482568-9d11-4875-aec2-f77e7d1c48bd" alt="Village Overview 2" width="45%"/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/ee330762-25c5-4c4a-8ba5-f94a35bf5f76" alt="Farming Area Layout Placeholder" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/c5fa79e0-1bf3-46be-85d6-cceeb04f87a4" alt="Market or Tavern Zone Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/ee330762-25c5-4c4a-8ba5-f94a35bf5f76" alt="Farming Area / Animal Farm" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c5fa79e0-1bf3-46be-85d6-cceeb04f87a4" alt="Tavern or Market Zone" width="45%"/>
   <br/>
-  <img src="https://github.com/user-attachments/assets/fa0d5b1b-59d2-472f-96f5-04acf89ee2cc" alt="Player Character (from Animation Sample) in Scene Placeholder" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/e57d1aaa-6c89-4131-b9f1-1ba55381a449" alt="Interior Blockout Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/fa0d5b1b-59d2-472f-96f5-04acf89ee2cc" alt="Player Character in Village" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/e57d1aaa-6c89-4131-b9f1-1ba55381a449" alt="Building Interior / Smithy" width="45%"/>
   <br/>
 </p>
-
-
-
 
 ---
 
@@ -126,17 +147,17 @@ Development utilized a robust third-person character controller from the **UE An
     *   Third-Person Character Controller (from Animation Sample)
     *   Project Packaging/Build System
     *   *Future: Sequencer (for playtesting video)*
-*   **Design Document:** Custom Level Design Document (LDD) for "Medieval Village Prototype"
+*   **Design Document:** [Level Design Document (LDD) for "Medieval Village Prototype"]([LINK_TO_YOUR_LDD_PDF_HERE])
 *   **Course:** [Fundamentals of Level Design with Unreal Engine](https://www.coursera.org/learn/level-design?specialization=epic-games-game-design-professional-certificate) (Epic Games / Coursera)
 *   **Version Control:** GitHub ([FahimKamal/Medieval-Village-Prototype](https://github.com/FahimKamal/Medieval-Village-Prototype.git)) <!-- Confirm or update repo name -->
 *   **Documentation:** Markdown (for this README)
-*   **Image Placeholders:** [placehold.co](https://placehold.co/)
+*   **Image Placeholders (For sections not yet updated with actual images):** [placehold.co](https://placehold.co/)
 
 ---
 
 ## 📊 Project Status (As of June 24, 2025) <!-- Update with actual greybox completion date -->
 
-*   ✅ **Project Definition & Foundation:** Scope defined as a single-player "Medieval Village Prototype." LDD drafted. Project initialized using a modified UE Animation Sample integrated with SuperGrid.
+*   ✅ **Project Definition & Foundation:** Scope defined as a single-player "Medieval Village Prototype." LDD drafted and linked. Project initialized using a modified UE Animation Sample integrated with SuperGrid.
 *   ✅ **Initial Landscape Sculpting/Setup:** Base terrain for the village and surrounding areas created.
 *   ✅ **Castle Area Blockout (SuperGrid/Primitives):** Main castle compound, courtyard, auxiliary buildings, and traversable defensive walls greybox complete.
 *   ✅ **Village Proper Blockout (SuperGrid/Primitives):** Greyboxing of four residential homes, Smithy, central Tavern, and Market area complete.
@@ -150,9 +171,9 @@ Development utilized a robust third-person character controller from the **UE An
 *   ✅ **Playtesting & Iteration (Focus on Level Flow & Character Movement):** Final playtesting for greybox phase complete.
 *   ✅ **Finalize Greybox:** Greybox construction for the entire map is complete.
 *   ✅ **Project Build Created:** A packaged build of the project is ready.
+*   ✅ **Video Showcase:** Playtesting video recorded and uploaded to YouTube.
 *   ---
-*   🔄 **Current Focus:** Creating a playtesting video (max 5 mins) & preparing for project submission.
-*   🔲 **Capture Showcase Video & Screenshots.** (Screenshots taken, video pending)
+*   🔄 **Current Focus:** Preparing final assets (LDD PDF, Level Map image) & project submission.
 *   🔲 **Course Project Submission.**
 *   🔲 **Receive Course Certificate.**
 
