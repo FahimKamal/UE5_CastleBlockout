@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ab13ae44-2881-40e7-a9f1-9fe58b06e4bf" alt="Medieval Village Prototype - Hero Image Placeholder" width="80%"/>
   <br>
-  <em>A representative hero image of the completed "Medieval Village Prototype" greybox. (Image will be updated with actual screenshot)</em>
+  <em>A representative hero image of the completed "Medieval Village Prototype" greybox.</em>
 </p>
 
 ---
@@ -101,7 +101,6 @@ Development utilized a robust third-person character controller from the **UE An
   <img src="https://github.com/user-attachments/assets/fa0d5b1b-59d2-472f-96f5-04acf89ee2cc" alt="Player Character (from Animation Sample) in Scene Placeholder" width="45%"/>
   <img src="https://github.com/user-attachments/assets/e57d1aaa-6c89-4131-b9f1-1ba55381a449" alt="Interior Blockout Placeholder" width="45%"/>
   <br/>
-  <em>(Actual screenshots of the completed greybox will be added here soon.)</em>
 </p>
 
 
