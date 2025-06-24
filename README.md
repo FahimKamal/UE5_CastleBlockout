@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/1000x500/png?text=Medieval+Village+Prototype\nCompleted+Greybox+Hero+Image" alt="Medieval Village Prototype - Hero Image Placeholder" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/ab13ae44-2881-40e7-a9f1-9fe58b06e4bf" alt="Medieval Village Prototype - Hero Image Placeholder" width="80%"/>
   <br>
   <em>A representative hero image of the completed "Medieval Village Prototype" greybox. (Image will be updated with actual screenshot)</em>
 </p>
@@ -86,17 +86,26 @@ Development utilized a robust third-person character controller from the **UE An
 ## 📸 Development Screenshots (Completed Medieval Village Greybox)
 
 <p align="center">
-  <img src="https://placehold.co/600x338/png?text=Village+Overview\n(SuperGrid+Blockout)" alt="Village Overview with SuperGrid Placeholder" width="45%"/>
-  <img src="https://placehold.co/600x338/png?text=Castle+Blockout\n(SuperGrid)" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/81f9274f-2628-479d-a343-ce262613fd2c" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/641d555b-b65a-4b8b-9b43-56cb0ae1c67e" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
   <br/>
-  <img src="https://placehold.co/600x338/png?text=Farming+Area+Layout" alt="Farming Area Layout Placeholder" width="45%"/>
-  <img src="https://placehold.co/600x338/png?text=Market+or+Tavern+Zone" alt="Market or Tavern Zone Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c707af6b-5ddd-4836-85f7-2de5af43d5dd" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c1495133-9ca5-48c8-9b1c-fca25178be64" alt="Castle Blockout with SuperGrid Placeholder" width="45%"/>
   <br/>
-  <img src="https://placehold.co/600x338/png?text=Player+Character+in+Scene\n(From+Anim+Sample)" alt="Player Character (from Animation Sample) in Scene Placeholder" width="45%"/>
-  <img src="https://placehold.co/600x338/png?text=Interior+Blockout\n(Doors/Chests)" alt="Interior Blockout Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/eca8b836-4352-42cb-a888-c0181267993f" alt="Village Overview with SuperGrid Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b0482568-9d11-4875-aec2-f77e7d1c48bd" alt="Village Overview with SuperGrid Placeholder" width="45%"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/ee330762-25c5-4c4a-8ba5-f94a35bf5f76" alt="Farming Area Layout Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/c5fa79e0-1bf3-46be-85d6-cceeb04f87a4" alt="Market or Tavern Zone Placeholder" width="45%"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/fa0d5b1b-59d2-472f-96f5-04acf89ee2cc" alt="Player Character (from Animation Sample) in Scene Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/e57d1aaa-6c89-4131-b9f1-1ba55381a449" alt="Interior Blockout Placeholder" width="45%"/>
   <br/>
   <em>(Actual screenshots of the completed greybox will be added here soon.)</em>
 </p>
+
+
+
 
 ---
 
