@@ -14,21 +14,18 @@
 ======================================================================
 -->
 
-https://github.com/user-attachments/assets/009e657f-e187-4883-ad80-dffa16e45491
-
-<p align="center">
-  <br>
-  <em>Playtesting Video of the completed Medieval Village greybox</em>
-  <br>
-  <a href="https://www.youtube.com/watch?v=LSEcTx-XwU4" target="_blank">
-    Watch in UHD on YouTube.
-  </a>
-</p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ab13ae44-2881-40e7-a9f1-9fe58b06e4bf" alt="Medieval Village Prototype - Hero Image" width="80%"/>
   <br>
   <em>A representative hero image of the completed "Medieval Village Prototype" greybox.</em>
+</p>
+
+<p>
+  <br>
+  <em>Playtesting Video of the completed Medieval Village greybox</em>
+  <a href="https://www.youtube.com/watch?v=LSEcTx-XwU4" target="_blank">
+    Watch in UHD on YouTube.
+  </a>
 </p>
 
 ---
@@ -101,12 +98,10 @@ Below is the top-down conceptual map that guided the greybox construction of the
 
 ## 📜 Certificate of Completion - Fundamentals of Level Design
 
-*(This section will be updated upon successful completion of the course and receipt of the certificate.)*
-
 <p align="center">
-  <img src="https://placehold.co/700x500/png?text=Course+Certificate\n(Fundamentals+of+Level+Design)" alt="Certificate for Fundamentals of Level Design Placeholder" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/cf261622-33f1-4424-bf7b-d41e3c0559d4" alt="Certificate for Fundamentals of Level Design Placeholder" width="70%"/>
   <br>
-  <em>Certificate will be added upon course completion.</em>
+  <em>Certificate of Completion - Fundamentals of Level Design.</em>
   <br>
 </p>
 
